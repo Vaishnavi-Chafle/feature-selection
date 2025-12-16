@@ -49,6 +49,10 @@ The notebook includes:
 
 ---
 
+## Datasets used
+df1 = "/kaggle/input/human-activity-recognition-with-smartphones/train.csv"
+df2 = "/kaggle/input/titanic/train.csv"
+
 ## Summary
 
 Filter-based feature selection helps reduce the number of features while
