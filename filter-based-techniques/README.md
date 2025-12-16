@@ -39,7 +39,7 @@ The following filter-based techniques are implemented in this folder:
 
 The complete implementation and examples are available in:
 
-📓 **`filter_based.ipynb`**
+📓 **`based-feature-selection.ipynb`**
 
 The notebook includes:
 - Data loading
@@ -50,8 +50,8 @@ The notebook includes:
 ---
 
 ## Datasets used
-df1 = "/kaggle/input/human-activity-recognition-with-smartphones/train.csv"
-df2 = "/kaggle/input/titanic/train.csv"
+df1 = **`/kaggle/input/human-activity-recognition-with-smartphones/train.csv`**
+df2 = **`/kaggle/input/titanic/train.csv`**
 
 ## Summary
 
